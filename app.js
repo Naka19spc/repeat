@@ -725,7 +725,7 @@ function onCLickBoxChange(){
  let addBtn = document.querySelector(".btnAdd");
  let ulListIt =document.querySelector(".ul-list-items");
  newImage.addEventListener('click', function(){
-    alert("MIAAAAAAAAAAAUUUUUUUUUUUUUUUUUUUUU")
+    alert("Hello")
  })
  let form=document.getElementById('form-wrapper')
  form.addEventListener("submit", function(e){
